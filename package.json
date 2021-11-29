@@ -1,0 +1,19 @@
+{
+  "name": "stopwatch",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^7.1.2",
+    "@vueuse/rxjs": "^7.1.2",
+    "rxjs": "^7.4.0",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}
